@@ -1,0 +1,11 @@
+// VARIABLES
+@import "./sass/variables/colors";
+
+// VENDORS
+@import "./sass/vendors/normalize";
+
+body {
+  h1 {
+    font-style: italic;
+  }
+}
